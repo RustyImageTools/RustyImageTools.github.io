@@ -1,0 +1,14 @@
+{
+  "name": "rust_image_resizer",
+  "version": "0.1.0",
+  "files": [
+    "rust_image_resizer_bg.wasm",
+    "rust_image_resizer.js",
+    "rust_image_resizer.d.ts"
+  ],
+  "module": "rust_image_resizer.js",
+  "types": "rust_image_resizer.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}

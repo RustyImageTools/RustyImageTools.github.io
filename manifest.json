@@ -1,0 +1,18 @@
+{
+  "short_name": "Rusty-image-tools",
+  "name": "Rusty Image Tools",
+  "icons": [
+    {
+      "src": "/rusty.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "rusty-image-tools",
+  "start_url": "/",
+  "background_color": "#fef1e8",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#fef1e8",
+  "description": "Resize, convert and analyze images with multiple formats"
+}
